@@ -1,0 +1,5 @@
+1- Faça um algoritmo em pseudo codigo (portugol) para o problema a baixo:
+estudantes da universidade federal do piaui (UFPI) tendem a acumular tarefas com muita facilidade, para ajudalos você deve montar um algoritmo
+que recebe o nome do aluno e quantas materias o mesmo escolheu para esse periodo, quaoo dificil é cada materia (1 para facil, 2 para dificil, 3 para muito dificil), quanto tempo essa pessoa tem por dia para dedicar a realização das tarefas
+ao final o algoritmo deve retornar quanto tempo em horas que cada materia deve receber para resolver o problema das atividades com maestria.
+Dica: materias normais gastam pouco tempo, materias dificeis gastam o dobro do tempo, materias muito dificil gastam o triplo do tempo 
