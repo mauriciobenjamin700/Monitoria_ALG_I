@@ -1,10 +1,8 @@
 1-
-	-Aluno fez o calculo na mão e printou o resultado direto
+	- Aluno fez o calculo na mão e printou o resultado direto
 	- Aluno fez em C e não em portugol
 	- Atualmente esse codigo funciona, entretanto quando o salario mudar, o codigo não vai mais funcionar
 	- de resto tudo beleza
 
 2 - 
 	- Aluno fez em C e não em portugol
-
-	-	

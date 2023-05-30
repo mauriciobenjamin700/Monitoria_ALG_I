@@ -1,8 +1,8 @@
 1
 	- Fez em portugol
 	- Codigo legivel
-	- Logica aparentemente certa
+	- Aparentemente tudo certo
 2
 	- Fez em portugol
 	- Codigo legivel
-	- Logica aparentemente certa
+	- Aparentemente tudo certo

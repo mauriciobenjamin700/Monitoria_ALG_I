@@ -2,7 +2,10 @@
 	- Fez em portugol
 	- Codigo legivel
 	- Logica aparentemente certa
+	
+
 2
 	- Fez em portugol
 	- Codigo legivel
 	- Logica aparentemente certa
+

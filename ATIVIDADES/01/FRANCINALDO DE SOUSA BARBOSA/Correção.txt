@@ -1,11 +1,8 @@
-1 
+1
 	- Fez em portugol
 	- Codigo meio legivel
-	- Aparentemente logica certa
-	
-
+	- Aparentemente tudo certo
 2
-
 	- Fez em portugol
 	- Codigo meio legivel
-	- Aparentemente logica certa
+	- Aparentemente tudo certo

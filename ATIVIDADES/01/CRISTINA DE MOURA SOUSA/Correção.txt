@@ -1,0 +1,12 @@
+1
+	- Fez em portugol
+	- Codigo legivel
+	- Aparentemente tudo certo
+2
+	- Fez em portugol
+	- Codigo meio legivel
+	- Aparentemente tudo certo
+
+
+Mauricio aqui!, sobre a pergunta do sigaa, a resposta está em usar loop de repetição
+você verá como usar isso mais pra frente no decorrer da disciplina
